@@ -2,28 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0b3e541-aa29-4695-b95e-17658d8291b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leyou-upload/leyou-upload.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-upload/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-upload/src/main/java/com/leyou/LeyouUploadApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-upload/src/main/java/com/leyou/upload/config/FastClientImporter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-upload/src/main/java/com/leyou/upload/config/LeyouCorsConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-upload/src/main/java/com/leyou/upload/controller/UploadController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-upload/src/main/java/com/leyou/upload/service/UploadService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-upload/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leyou-upload/src/test/java/com/leyou/upload/test/FastDFSTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-gateway/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leyou-gateway/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-gateway/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java/com/leyou/item/controller/BrandController.java" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java/com/leyou/item/controller/BrandController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java/com/leyou/item/mapper/BrandMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java/com/leyou/item/mapper/BrandMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java/com/leyou/item/service/BrandService.java" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java/com/leyou/item/service/BrandService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leyou-item/leyou-item-service/target/classes/com/leyou/item/controller/BrandController.class" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-item/leyou-item-service/target/classes/com/leyou/item/controller/BrandController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leyou-item/leyou-item-service/target/classes/com/leyou/item/mapper/BrandMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-item/leyou-item-service/target/classes/com/leyou/item/mapper/BrandMapper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leyou-item/leyou-item-service/target/classes/com/leyou/item/service/BrandService.class" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-item/leyou-item-service/target/classes/com/leyou/item/service/BrandService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -58,6 +41,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="hongxiaotong &lt;706614700@qq.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -117,7 +105,7 @@
     <option name="jreName" value="jdk1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="294" />
     <option name="y" value="111" />
     <option name="width" value="1302" />
@@ -262,8 +250,16 @@
       <updated>1586436521242</updated>
       <workItem from="1586436528989" duration="2931000" />
       <workItem from="1586444361659" duration="1760000" />
-      <workItem from="1586454453051" duration="27775000" />
+      <workItem from="1586454453051" duration="28347000" />
     </task>
+    <task id="LOCAL-00001" summary="商品、品牌分类查询">
+      <created>1586625901355</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586625901355</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -293,7 +289,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32466000" />
+    <option name="totallyTimeSpent" value="33038000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -305,7 +301,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49593496" visible="true" weight="0.24252222" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -329,7 +325,7 @@
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32978722" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32978722" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" weight="0.3285968" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.57548845" />
       <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.41563055" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -381,6 +377,36 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="商品、品牌分类查询" />
+    <option name="LAST_COMMIT_MESSAGE" value="商品、品牌分类查询" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/leyou-registry/pom.xml">

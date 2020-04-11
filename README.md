@@ -63,3 +63,10 @@
 - 项目构建：maven3.3.9
 
 
+域名配置
+-127.0.0.1 api.leyou.com
+-127.0.0.1 manage.leyou.com
+-127.0.0.1 www.leyou.com
+-192.168.56.101 image.leyou.com
+
+
